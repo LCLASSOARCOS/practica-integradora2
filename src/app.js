@@ -1,4 +1,4 @@
-//app.js
+//app.jss
 
 import express from "express";
 import exphbs from "express-handlebars";
